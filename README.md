@@ -1,9 +1,13 @@
 ﻿# Interactive tools for introductory economics
+## Decision making under risk
 
-Topics covered:
-- Equilibrium under perfect competition
-- Taxation and consequences
-- Price regulation (price floor and ceiling) and consequences
+Concepts illustrated:
+- Lottery (random variable)
+- Risk preferences
+- Risk premium
+- Certainty equivalent
 
-Deployed on:
-https://econ-interactive-tools.onrender.com
+Deployed on Render at:
+https://econ-risk-simulator.onrender.com
+
+
